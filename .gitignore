@@ -1,0 +1,18 @@
+
+# Output files from example
+data/out/
+
+# Editors
+.idea
+.vscode
+
+# Sbt
+target/
+.ivy
+.staging
+
+# Spark local running files
+derby.log
+metastore_db
+spark-warehouse
+
